@@ -1,0 +1,185 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>For the inhabitants of Worcester to view and consider well of, especially they of Nicholas-Parish. The case of us, viz. Edward Bourne, John Knight, Joseph Allibon and Richard Hill, of Nicholas-Parish in the city of Worcester.</title>
+            <author>Bourne, Edward, d. 1708.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77136</idno>
+            <idno type="STC">Wing B3846C</idno>
+            <idno type="STC">ESTC R170729</idno>
+            <idno type="EEBO-CITATION">45578169</idno>
+            <idno type="OCLC">ocm 45578169</idno>
+            <idno type="VID">172126</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77136)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172126)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2615:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>For the inhabitants of Worcester to view and consider well of, especially they of Nicholas-Parish. The case of us, viz. Edward Bourne, John Knight, Joseph Allibon and Richard Hill, of Nicholas-Parish in the city of Worcester.</title>
+                  <author>Bourne, Edward, d. 1708.</author>
+                  <author>Knight, John.</author>
+                  <author>Allibon, Joseph.</author>
+                  <author>Hill, Richard.</author>
+               </titleStmt>
+               <extent>6, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Worcester? :</pubPlace>
+                  <date>1682]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: Worcester-City-Prison, the 1st of June (so called) 1682. Edward Bourne, Joseph Allibon, John Kinght [sic], Richard Hill.</note>
+                  <note>Includes "Books printed and sold by Andrew Sowle ..." ([1] p. at end).</note>
+                  <note>Reproduction of original in the Friends' Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bourne, Edward, d. 1708.</term>
+               <term>Knight, John.</term>
+               <term>Allibon, Joseph.</term>
+               <term>Hill, Richard.</term>
+               <term>Quakers --  England --  Worcester.</term>
+               <term>Worcester (England) --  Religion --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:172126:1" rendition="simple:additions"/>
+            <head>For the Inhabitants of <hi>Worceſter</hi> to view, and conſider well of, eſpecially they of <hi>Nicholas</hi>-Pariſh.</head>
+            <head>The Caſe of us, viz. <hi>Edward Bourne, John Knight, Joſeph Allibon</hi> and <hi>Richard Hill,</hi> of <hi>Nicholas</hi>-Pariſh in the City of <hi>Worceſter.</hi>
+            </head>
+            <p>BEing Excommunicated, and a Writ <hi>de Excommu<g ref="char:EOLhyphen"/>nicato Capiendo</hi> is come down to impriſon us, upon which <hi>Edward Bourne</hi> is cloſely confined, who was a Priſoner before for no Evil, except it be an Evil to exhort, adviſe and perſwade People to dwell together in Love, <note n="[a]" place="margin">
+                  <hi>Note,</hi> That if to do theſe things be accounted an <hi>Evil</hi> by any amongſt you, yet they are not ſo accounted by the Lord.</note> and to be at Peace amongſt themſelves, and to live in the fear of the Lord, and to obey his Voice, by whom we are all called upon, <hi>To follow Peace and Holi<g ref="char:EOLhyphen"/>neſs with all Men;</hi> which is his Call unto all People, without which no man ſhall ſee the Lord, though they make mention of his Name, and call upon him never ſo often; ſee <hi>Matth.</hi> 7.21. and <hi>Heb.</hi> 12.14. He that readeth, let him under<g ref="char:EOLhyphen"/>ſtand. So conſider, whether it be Righteous in the ſight of God, to impriſon any for perſwading and ad<g ref="char:EOLhyphen"/>viſing People to do as above is mentioned, eſpecially when ſuch believe, they ſhall ſin, if they neglect the ſame. So, you ſee 'tis for obeying the Voice of the Lord, for hearing and doing what God ſpeaks to us by
+<pb n="2" facs="tcp:172126:2"/> his Son Chriſt Jeſus, by whom we are called unto Peace, that this meaſure is meaſured unto us. And con<g ref="char:EOLhyphen"/>ſider, if they muſt go into everlaſting Fire, who did not viſit Chriſt in his Members in Priſon; what will be<g ref="char:EOLhyphen"/>come of them that caſt them in? 'Tis not for us to be ſilent, and to hold our peace, and not to warn peo<g ref="char:EOLhyphen"/>ple of the danger they are in, when the Lord makes us ſenſible thereof, and requires it at our Hands: Though it may be ſaid concerning us, <hi>We are no Prophets, nor no Prophets Sons,</hi> as <hi>Amos</hi> ſaid; ſee <hi>Amos</hi> 7.14, 15. Yet the Lord who knows beſt what is to be done, may call whom he will to ſuch a Service as this, he knows beſt who is the fitteſt for it: Who ſaid to <hi>Amos,</hi> who was a gatherer of <hi>Sycomore</hi> Fruit, and followed the Flock; <hi>Go propheſie to my people</hi> Iſrael. And to <hi>David</hi> the Lord ſaid, <hi>I took thee from the Sheep-Cote, from following the Sheep, to be Ruler over my people, over</hi> Iſrael; <hi>and I was with thee whither ſoever thou wenteſt; and have cut off all thine Enemies out of thy ſight,</hi> &amp;c. ſee 2 <hi>Sam.</hi> 7, 8, 9, &amp;c. So can any know who are fit for the <hi>work</hi> and <hi>ſervice</hi> of the Lord, ſo well as he? Will it not be a great preſump<g ref="char:EOLhyphen"/>tion in any ſo to take upon them. 'Tis appointed for all to dye, and after that to come to Judgment; to bear and lie under the Sentence and Judgment of him that <hi>judgeth Righteouſly,</hi> where people will be <hi>bleſſed</hi> or <hi>curſed</hi> forever. And know, that <hi>in the Grave will be no repentance.</hi> So, if the Lord make any of us ſenſible of the Miſery he is bringing upon ſuch as mind not his Call, nor do not obey his Voice; if we do not diſcharge a good Conſcience towards them, in warning them thereof, will not their Blood lie upon us? Will not the Righteous Lord, who loveth Righteouſneſs, and re<g ref="char:EOLhyphen"/>quireth Truth in the inward parts, require it of us?
+<pb n="3" facs="tcp:172126:2"/> See what the Lord ſaid to <hi>Ezekiel, See thou, O Son man, I have ſet thee a Watch-man unto the Houſe of</hi> Iſrael.; <hi>therefore thou ſhalt hear the Word at my Mouth, and warn them from me: When I ſay to the wicked man, Thou ſhalt ſurely dye: If thou doſt not ſpeak to warn the wicked man from his way, that wicked man ſhall dye in his Iniquity; But his Blood will I require at thy Hand,</hi> Ezek. 33.7, 8. begin the Chapter, and read to verſe 10. You who ſhall read this, conſider thereof, and the Lord give you underſtanding.</p>
+            <p>And now concerning our Caſe, who are Excommu<g ref="char:EOLhyphen"/>nicated, and a Writ <hi>de Excommunicato Capiendo</hi> is come down to Impriſon us: This hard meaſure is meaſured unto us by Unmerciful perſons, who mind not Chriſt's command, <hi>To do to others, as they would be done unto themſelves.</hi> Though they call themſelves <hi>Chriſtians,</hi> and account themſelves Chriſt's true followers: but the <hi>Tree is known by its Fruit.</hi> Concerning whom we can ſay, (praiſed be the Lord therefore; notwithſtanding they have meaſured ſuch meaſure to us) The Lord forgive them, and change their Hearts from Hardneſs to Softneſs, from Stonyneſs to Fleſhineſs, that they may be as God would have them to be, who is <hi>merciful</hi> and <hi>kind,</hi> and would have people to be ſo; leſt as they have done, it be done to them again; according as they have meaſured, it be meaſured to them again. <hi>For he ſhall</hi> (ſaid the Apoſtle and Servant of Chriſt Jeſus) <hi>have Judgment without Mercy, who ſhewed no Mercy,</hi> James 2.13.</p>
+            <p>The Wardens of <hi>Nicholas</hi> Pariſh, <hi>viz.</hi> for the laſt Year, one of which is High-Warden this Year, de<g ref="char:EOLhyphen"/>manded a little Money of every one of us; the whole
+<pb n="4" facs="tcp:172126:3"/> they demanded was <hi>Eight Shillings,</hi> towards the repair of the Church (ſo called) which we could not pay them, becauſe we believed we ſhould offend the Lord in doing it; and not becauſe we loved our Money ſo well, that we could not part with it. So it was not for Covetouſneſs-ſake we were not willing to part with ſo much Money; for we have parted with a great deal more many times, as many know, and that freely, when by the Law we could not be com<g ref="char:EOLhyphen"/>pelled thereunto, when we believed it neceſſary ſo to do; which we did not, nor do believe in this caſe to be neceſſary for us; for reaſons you may know more here<g ref="char:EOLhyphen"/>after, if occaſion ſhall require the ſame, than at preſent we may give you. It may be what we ſhall ſay at pre<g ref="char:EOLhyphen"/>ſent for our ſelves herein, may be ſatisfactory to you: However, to ſuch who are reaſonable, who deſire to do to others, as they would be done unto themſelves; Let us ask you, why ſhould we be forced and compel<g ref="char:EOLhyphen"/>led by rigour, to do what God hath not given us to believe we may do without offending him therein? You may ſay, <hi>You ſee no Harm therein.</hi> Suppoſe it be as you ſay, You ſee no Harm therein? then you may come off the better, when to God you muſt come to a <hi>reckoning,</hi> to give account of all things you have done: For 'tis ſaid, <hi>The time of Ignorance God winked at.</hi> I wiſh you may reform in what you ſee the Lord would have you come to a Reformation in. But be it ſo as you ſay; Muſt it follow, that others muſt do ſo, becauſe you ſee no Harm therein, when they believe it will turn to their Harm to do it? Will it be ſafe for others to walk by your ſight, or by their own? But tell us what is the good you ſee herein? Are you the better approved of in the ſight of the Lord therefore, do
+<pb n="5" facs="tcp:172126:3"/> you believe? You may anſwer the Queſtion if you ſee it meet. Ought not every Man and Woman to do as God hath given them to believe they ought to do? And if any do that which God hath not given them to believe they ſhould do, but forbear ſo to do; or if in the leaſt they cannot have ſatisfaction in themſelves, but they ſhall do amiſs therein? Will not ſuch ſin in ſo doing, ſince the Apoſtle ſaith, <hi>Let every one be fully perſwaded in his own mind in what he doth: For whatſoever is not of Faith, is Sin?</hi> Rom. 14.5.23. If this be your Rule, ought you not to walk according to it? But if you have a better Rule then this to walk by, you may do well to let us know it.</p>
+            <p>So this is our caſe, and thus it ſtands with us; and here, as in a Glaſs, you may ſee where we are, and upon what Foundation we ſtand: And if you can find in you Hearts to open your Purſes to part with Money to throw us into Priſon, and ſo to diſable us from paying Taxes on the Poors account, and other accounts, which according to our Abilities we were alwayes ready to do, and ſo to wrong the Poor, and bring a heavier burden upon your ſelves, which in likelihood will be in outward things, as well as upon your Conſciences, which certainly will hereby be load<g ref="char:EOLhyphen"/>ed, and the righteous Spirit of God grieved in you, to gratifie ſuch perſons, whoſe Fruits declare them to be Envious and Malicious; though they pray, that God would deliver them from all Envy and Malice. The Lord look upon it, and judge between you and us herein.</p>
+            <p>Theſe Wardens cauſed us to be cited into the Chan<g ref="char:EOLhyphen"/>cellours Court, where we often appeared, and wrote to them to ſatisfie them concerning our ſelves, and to
+<pb n="6" facs="tcp:172126:4"/> have ſatisfaction from them, which they have not yet anſwered, nor never will, we believe; through whoſe doings we are Excommunicated, that is, <hi>delivered up to the Devil,</hi> as 'tis ſaid, which is ſad to conſider of; for we have done them no wrong: and Chriſt ſays, <hi>Love your Enemies.</hi> Now if they were Chriſt's true fol<g ref="char:EOLhyphen"/>lowers, do you believe they would deal thus by us? We do not believe they would. And do not theſe cry down the <hi>Papiſts</hi> for their Cruelty? The Inquiſitors in <hi>Spain</hi> for their grievous Perſecution, and ſay, <hi>They are Antichriſtian therein?</hi> But ſatisfie us who can, whe<g ref="char:EOLhyphen"/>ther a better ſpirit be the guide of theſe, in theſe their doings, then ſuch are guided by? And whether it be not one and the ſelf-ſame Spirit which guides the one, that guides the other? But for what they have done againſt us, we ſay, <hi>The Lord forgive them.</hi> From</p>
+            <closer>
+               <signed>Your Friends and Neighbours,
+<list>
+                     <item>Edward Bourne,</item>
+                     <item>Joſeph Allibon,</item>
+                     <item>John Kinght,</item>
+                     <item>Richard Hill.</item>
+                  </list>
+               </signed>
+               <dateline>
+                  <hi>Worceſter-</hi>City-Priſon, <date>the 1ſt of <hi>June</hi> (ſo called) 1682.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>Since this was writ, <hi>John Knight</hi> was Impri<g ref="char:EOLhyphen"/>ſoned, being Arreſted, on the account herein men<g ref="char:EOLhyphen"/>tioned, who is under a cloſe Confinement with <hi>Edward Bourn</hi>and alſo <hi>Richard Hill.</hi>
+               </p>
+            </postscript>
+         </div>
+         <trailer>THE END.</trailer>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:172126:4"/>
+            <head>Books Printed and Sold by <hi>Andrew Sowle,</hi> at the Sign of the Crooked-Billet in <hi>Holloway-Lane</hi> in <hi>Shoreditch,</hi> and at his Shop without <hi>Biſhops-Gate,</hi> 1682.</head>
+            <p>NO CROSS, NO CROWN; <hi>Being a Diſcourſe of the Holy Croſs of Chriſt. By</hi> William Penn.</p>
+            <p>
+               <hi>A Legal Examination of</hi> Abuſes of LAW, <hi>concerning</hi>
+               <list>
+                  <item>1. Forcible Entry,</item>
+                  <item>2. Impriſonment without Warrant,</item>
+                  <item>3. Riots, Routs <hi>and</hi> Unlawful Aſſemblies;</item>
+                  <item>4. The publick Peace <hi>and</hi> breach of it;</item>
+                  <item>5. How Arbitrary <hi>and</hi> Illegal the late proceedings at <hi>Bristol</hi> are;</item>
+                  <item>6. Oppreſ<g ref="char:EOLhyphen"/>ſion <hi>and</hi> Dureſs <hi>by</hi> Goals <hi>and</hi> Goalers, &amp;c. <hi>How contrary to Law: What priviledge the Law allows to Priſoners.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <hi>Due Order of</hi> Law <hi>and</hi> Juſtice pleaded, <hi>againſt Irregular and Arbitrary Proceedings. By</hi> George Whitehead.</p>
+            <p>
+               <hi>An Addreſs to Proteſtants upon the preſent Conjuncture, in Two Parts. By</hi> William Penn.</p>
+            <p>Humphry Smith's <hi>Books collected into one Volumn.</hi>
+            </p>
+            <p>The Arraignment of Popery; <hi>Being a ſhort Collection out of Eccleſiaſtical Hiſtories and Chronological Accounts of the State of the Church,</hi> viz <hi>How long it was before the <g ref="char:V">Ʋ</g>niverſal</hi> Pope <hi>and</hi> Maſs <hi>was ſet up, and the bringing in of their</hi> Rudiments, Traditions, Beads, Images, Purgatory, Tythes, Inquiſitions, <hi>&amp;c. And the Cruelty they have acted ſince the Pope got up. Alſo, the manner of the</hi> Spaniſh Inquiſition.</p>
+            <pb facs="tcp:172126:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
